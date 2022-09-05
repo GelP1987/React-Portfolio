@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5d999a6d.css",
+    "main.js": "/react-portfolio/static/js/main.67e61f09.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/IndecisiveDecision.png": "/react-portfolio/static/media/IndecisiveDecision.9400cfe8b3859a6bfa45.png",
+    "static/media/tranquilitea.png": "/react-portfolio/static/media/tranquilitea.55442708d8316949b620.png",
+    "static/media/techblog.png": "/react-portfolio/static/media/techblog.c9dc0405ed84b4b6299e.png",
+    "static/media/philporfolioicon.png": "/react-portfolio/static/media/philporfolioicon.02e40089290c3bc00172.png",
+    "static/media/budgettracker.png": "/react-portfolio/static/media/budgettracker.bf475bca7c2500504432.png",
+    "static/media/WeatherorNot.png": "/react-portfolio/static/media/WeatherorNot.468885d70124b6cb50a1.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.dace0f469f8bdcfce27b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.5d999a6d.css.map": "/react-portfolio/static/css/main.5d999a6d.css.map",
+    "main.67e61f09.js.map": "/react-portfolio/static/js/main.67e61f09.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d999a6d.css",
+    "static/js/main.67e61f09.js"
+  ]
+}
