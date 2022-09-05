@@ -6,7 +6,12 @@ To showcase the recent works of the one and only and handsome Philip Andrew Geli
 
 ## Website
 
-## Usage
+LiveLink:
+GitHub Link: https://github.com/GelP1987/react-portfolio
+
+## Technologies Used
+
+HTML, CSS, JavaScript, React, JSX, Node, NPM
 
 ## Contributions
 
