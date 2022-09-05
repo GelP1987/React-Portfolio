@@ -9,12 +9,12 @@ import AboutMe from "./components/AboutMe";
 function App() {
   const [categories] = useState([
     {
-      name: "About Me",
+      name: "🐙 About Me",
       description:
         "Learn a little about the developer you'll love having as a part of your team.",
     },
     {
-      name: "Projects",
+      name: "🐚 Projects",
       description:
         "A List of Projects using various coding laguages of the MERN Stack",
     },

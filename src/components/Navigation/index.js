@@ -14,13 +14,8 @@ function Nav(props) {
   return (
     <header>
       <h2>
-        <a href="/">
-          <span role="img" aria-label="icon">
-            {" "}
-            🧙‍♂️
-          </span>{" "}
-          Philip Gelin's Web Dev Portfolio (Now with React!)
-        </a>
+        <article> 🧜 Philip Gelin's Web Dev Portfolio (Now with React!🏄)
+        </article>
       </h2>
       <nav>
         <ul>
@@ -52,7 +47,7 @@ function Nav(props) {
                 setResumeSelected(false);
               }}
             >
-              Contact
+              🏝Contact
             </span>
           </li>
           <li className={`${resumeSelected && "navActive"}`}>
@@ -62,7 +57,7 @@ function Nav(props) {
                 setResumeSelected(true);
               }}
             >
-              Resume
+              🏖Resume
             </span>
           </li>
         </ul>
