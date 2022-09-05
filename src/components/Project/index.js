@@ -10,46 +10,68 @@ function About() {
   return (
     <div>
       <div className="projects">
-        <a>🍍 Projects</a>
+        <h2 href="#projects">
+          🍍 Projects: Click the title for the GitHub, or the image for the Live
+          Webpage.
+        </h2>
       </div>
 
       <div className="project grid">
-        WeatherOrNot!
-        <img
-          alt="screenshot of weather or not live webpage"
-          src={WeatherOrNot}
-        />
+        <a href="https://github.com/GelP1987/WeatherOrNot"> WeatherOrNot!</a>
+        <a href="https://gelp1987.github.io/WeatherOrNot/">
+          <img
+            alt="screenshot of weather or not live webpage"
+            src={WeatherOrNot}
+          />
+        </a>
       </div>
 
       <div className="project grid">
-        Note Taker
-        <img alt="screenshot of note taker webpage" src={NoteTaker} />
+        <a href="https://github.com/GelP1987/NoteTaker"> Note Taker</a>
+        <a href="https://shielded-eyrie-70121.herokuapp.com/">
+          <img alt="screenshot of note taker webpage" src={NoteTaker} />
+        </a>
       </div>
 
       <div className="project grid">
-        Budget Tracker
-        <img
-          alt="screenshot of budget tracker app webpage"
-          src={BudgetTracker}
-        />
+        <a href="https://github.com/GelP1987/PWA-Budget-Tracker">
+          {" "}
+          Budget Tracker
+        </a>
+        <a href="https://mighty-brushlands-72050.herokuapp.com/">
+          {" "}
+          <img
+            alt="screenshot of budget tracker app webpage"
+            src={BudgetTracker}
+          />
+        </a>
       </div>
 
       <div className="project grid">
-        Tech Blog
-        <img alt="screenshot of Tech Blog webpage" src={TechBlog} />
+        <a href="https://github.com/GelP1987/techblog">Tech Blog</a>
+        <a href="https://peaceful-cliffs-43767.herokuapp.com/">
+          <img alt="screenshot of Tech Blog webpage" src={TechBlog} />
+        </a>
       </div>
 
       <div className="project grid">
-        Indecisive Decision
-        <img
-          alt="screenshot of Indecisive Decision Webpage"
-          src={IndecisiveDecision}
-        />
+        <a href="https://github.com/MaraDear/IndecisiveDecision">
+          {" "}
+          Indecisive Decision{" "}
+        </a>
+        <a href="https://maradear.github.io/IndecisiveDecision/">
+          <img
+            alt="screenshot of Indecisive Decision Webpage"
+            src={IndecisiveDecision}
+          />
+        </a>
       </div>
 
       <div className="project grid">
-        Tranquilitea
-        <img alt="screenshot of Tranquilitea Webpage" src={Tranquilitea} />
+        <a href="https://github.com/israel386/TranquiliTea">Tranquilitea</a>
+        <a href="https://frozen-fjord-79958.herokuapp.com/">
+          <img alt="screenshot of Tranquilitea Webpage" src={Tranquilitea} />
+        </a>
       </div>
     </div>
   );

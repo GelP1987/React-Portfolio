@@ -14,7 +14,9 @@ function Nav(props) {
   return (
     <header>
       <h2>
-        <article> 🧜 Philip Gelin's Web Dev Portfolio (Now with React!🏄)
+        <article>
+          {" "}
+          🧜 Philip Gelin's Web Dev Portfolio (Now with React!🏄)
         </article>
       </h2>
       <nav>

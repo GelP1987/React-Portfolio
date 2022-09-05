@@ -2,12 +2,16 @@ import React from "react";
 
 function Footer() {
   return (
-    <header>
+    <div>
       <h1 id="footer"> 🌊 Thanks For Stopping by!</h1>
-      {/* WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s 
-GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) */}
-    </header>
+      <a href="https://github.com/GelP1987">GitHub</a>
+      <br />
+      <a href="https://www.linkedin.com/in/philip-gelin-a5b5b114/">LinkedIn</a>
+      <br />
+      <a href="https://stackoverflow.com/users/18393361/philip-gelin">
+        Stack Overflow
+      </a>
+    </div>
   );
 }
 

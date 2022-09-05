@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1 id="header"> ☀️ Recent Developments!</h1>
+      <h2 id="header"> ☀️ Recent Developments!</h2>
     </header>
   );
 }
