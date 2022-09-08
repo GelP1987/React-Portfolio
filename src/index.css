@@ -45,16 +45,10 @@ li {
   padding: 0 10px;
 }
 
-article{
+article, h1 {
     background-image: linear-gradient(#ff7734,#e432b8);
     color: #e432b8;
     background-blend-mode: hard-light;
-}
-
-article,
-h1 {
-  color: aqua;
-  background-image: linear-gradient(rgb(255, 119, 52), rgb(228, 50, 184));
 }
 
 code {
