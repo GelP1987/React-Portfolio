@@ -35,11 +35,9 @@ function About() {
 
       <div className="project grid">
         <a href="https://afternoon-citadel-47605.herokuapp.com/">
-          {" "}
           Hive Social Wellness
         </a>
         <a href="https://afternoon-citadel-47605.herokuapp.com/">
-          {" "}
           <img alt="screenshot of Hive app webpage" src={Hive} />
         </a>
       </div>
