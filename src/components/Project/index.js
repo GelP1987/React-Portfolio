@@ -1,7 +1,7 @@
 import React from "react";
 import WeatherOrNot from "../../assets/img/WeatherorNot.png";
 import NoteTaker from "../../assets/img/notetaker.png";
-import BudgetTracker from "../../assets/img/budgettracker.png";
+import Hive from "../../assets/img/hive.png";
 import TechBlog from "../../assets/img/techblog.png";
 import IndecisiveDecision from "../../assets/img/IndecisiveDecision.png";
 import Tranquilitea from "../../assets/img/tranquilitea.png";
@@ -34,16 +34,13 @@ function About() {
       </div>
 
       <div className="project grid">
-        <a href="https://github.com/GelP1987/PWA-Budget-Tracker">
+        <a href="https://afternoon-citadel-47605.herokuapp.com/">
           {" "}
-          Budget Tracker
+          Hive Social Wellness
         </a>
-        <a href="https://mighty-brushlands-72050.herokuapp.com/">
+        <a href="https://afternoon-citadel-47605.herokuapp.com/">
           {" "}
-          <img
-            alt="screenshot of budget tracker app webpage"
-            src={BudgetTracker}
-          />
+          <img alt="screenshot of Hive app webpage" src={Hive} />
         </a>
       </div>
 
